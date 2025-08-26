@@ -24,8 +24,8 @@ Official plugin repository for the [Nexus AI Framework](https://github.com/neoph
 | Plugin | Game | Status | Install |
 |--------|------|---------|---------|
 | [**CS:GO Assistant**](./game-plugins/csgo) | Counter-Strike: Global Offensive | 🚧 Beta | `nexus plugin install csgo-assistant` |
-| [**Fortnite Builder**](./game-plugins/fortnite) | Fortnite | 🚧 Beta | `nexus plugin install fortnite-builder` |
-| [**League Auto-CS**](./game-plugins/league) | League of Legends | 🚧 Beta | `nexus plugin install league-autocs` |
+| [**Fortnite Builder**](./game-plugins/fortnite) | Fortnite | 🚧 Planing | `nexus plugin install fortnite-builder` |
+| [**League Auto-CS**](./game-plugins/league) | League of Legends | 🚧 Planing | `nexus plugin install league-autocs` |
 | [**Minecraft AutoMiner**](./game-plugins/minecraft) | Minecraft | ✅ Production | `nexus plugin install minecraft-autominer` |
 | [**PUBG Assistant**](./game-plugins/pubg) | PUBG | 🚧 Beta | `nexus plugin install pubg-assistant` |
 
@@ -34,16 +34,16 @@ Official plugin repository for the [Nexus AI Framework](https://github.com/neoph
 | Plugin | Description | Status | Install |
 |--------|-------------|---------|---------|
 | [**Vision Enhancer**](./ai-plugins/vision_enhancer) | Enhanced object detection | ✅ Production | `nexus plugin install vision-enhancer` |
-| [**Strategy Optimizer**](./ai-plugins/strategy_optimizer) | Game strategy optimization | 🚧 Beta | `nexus plugin install strategy-optimizer` |
-| [**Pattern Recognition**](./ai-plugins/pattern_recognition) | Gameplay pattern analysis | 🚧 Beta | `nexus plugin install pattern-recognition` |
+| [**Strategy Optimizer**](./ai-plugins/strategy_optimizer) | Game strategy optimization | 🚧 Planing | `nexus plugin install strategy-optimizer` |
+| [**Pattern Recognition**](./ai-plugins/pattern_recognition) | Gameplay pattern analysis | 🚧 Planing | `nexus plugin install pattern-recognition` |
 
 ### 🔧 Utility Plugins
 
 | Plugin | Description | Status | Install |
 |--------|-------------|---------|---------|
 | [**Macro Recorder**](./utility-plugins/macro_recorder) | Record and replay macros | ✅ Production | `nexus plugin install macro-recorder` |
-| [**Stream Integration**](./utility-plugins/stream_integration) | OBS/Twitch integration | 🚧 Beta | `nexus plugin install stream-integration` |
-| [**Voice Commands**](./utility-plugins/voice_commands) | Voice control support | 🚧 Beta | `nexus plugin install voice-commands` |
+| [**Stream Integration**](./utility-plugins/stream_integration) | OBS/Twitch integration | 🚧 Planing | `nexus plugin install stream-integration` |
+| [**Voice Commands**](./utility-plugins/voice_commands) | Voice control support | 🚧 Planing | `nexus plugin install voice-commands` |
 
 ## 🚀 Installation
 
