@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Framework](https://img.shields.io/badge/Framework-Nexus%20AI-blue)](https://github.com/neophrythe/Nexus-AI-Framework)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-green)](https://www.python.org/)
 [![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE)
 
 Official plugin repository for the [Nexus AI Framework](https://github.com/neophrythe/Nexus-AI-Framework) - a comprehensive game automation and AI training platform.
