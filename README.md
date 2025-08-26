@@ -23,11 +23,11 @@ Official plugin repository for the [Nexus AI Framework](https://github.com/neoph
 
 | Plugin | Game | Status | Install |
 |--------|------|---------|---------|
-| [**CS:GO Assistant**](./game-plugins/csgo) | Counter-Strike: Global Offensive | 🚧 Beta | `nexus plugin install csgo-assistant` |
+| [**CS:GO Assistant**](./game-plugins/csgo) | Counter-Strike: Global Offensive | 🚧 Planing | `nexus plugin install csgo-assistant` |
 | [**Fortnite Builder**](./game-plugins/fortnite) | Fortnite | 🚧 Planing | `nexus plugin install fortnite-builder` |
 | [**League Auto-CS**](./game-plugins/league) | League of Legends | 🚧 Planing | `nexus plugin install league-autocs` |
 | [**Minecraft AutoMiner**](./game-plugins/minecraft) | Minecraft | ✅ Production | `nexus plugin install minecraft-autominer` |
-| [**PUBG Assistant**](./game-plugins/pubg) | PUBG | 🚧 Beta | `nexus plugin install pubg-assistant` |
+| [**PUBG Assistant**](./game-plugins/pubg) | PUBG | 🚧 Planing | `nexus plugin install pubg-assistant` |
 
 ### 🤖 AI Enhancement Plugins
 
