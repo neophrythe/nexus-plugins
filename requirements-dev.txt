@@ -1,0 +1,37 @@
+# Development dependencies for Nexus plugin development
+
+# Testing
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.0.0
+pytest-mock>=3.10.0
+
+# Code Quality
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
+isort>=5.12.0
+pylint>=2.16.0
+
+# Documentation
+sphinx>=6.0.0
+sphinx-rtd-theme>=1.2.0
+sphinx-autodoc-typehints>=1.22.0
+
+# Type Checking
+types-pyyaml
+types-requests
+
+# Development Tools
+ipython>=8.10.0
+ipdb>=0.13.0
+pre-commit>=3.0.0
+
+# Build Tools
+build>=0.10.0
+twine>=4.0.0
+wheel>=0.38.0
+
+# Nexus AI Framework (for testing)
+# Uncomment when published to PyPI
+# nexus-ai-framework>=1.0.0
